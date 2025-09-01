@@ -1,16 +1,21 @@
-## Hi there 👋
+# RichieJr1111 - Richie Friedland
 
-<!--
-**RichieJr1111/RichieJr1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RichieJr1111&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="RichieJr1111" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichieJr1111&layout=compact&theme=tokyonight&hide_border=true" alt="RichieJr1111's Languages"/>
+<br clear="both" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+**Skills:** Unity • C# • C++ • Java • JavaScript • Python • *and more*  
+**Interests:** Game development, interactive systems, and creative programming projects.
+
+---
+
+### 🔗 Links
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Steg1118)  
+[![itch.io](https://img.shields.io/badge/itch.io-fa5c5c?logo=itchdotio&logoColor=fff)](https://itch.io/profile/Steg1118)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seantegrant/)  
+[![Website](https://img.shields.io/badge/Website-0a0?logo=firefox&logoColor=fff)](https://steg1118.github.io/web/)  
+<br clear="both" />
